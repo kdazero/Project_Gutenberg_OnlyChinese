@@ -4,6 +4,10 @@
 # Project Gutenberg
 爬取中文書籍，共 401 本。
 
+# Project Gutenberg v2.0
+爬取中文書籍，共 478 本。
+- 修改處 : 給予相同書名隨機ID 避免重名
+
 ## 安裝套件
 - requests 2.32.2
 - beautifulsoup4 4.12.3
