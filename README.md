@@ -17,7 +17,7 @@
 - requests 2.32.2
 - beautifulsoup4 4.12.3
 
-# Project Gutenberg v2.0
+# Project Gutenberg v3.0
 爬取中文書籍，共 478 本。
 耗時 : 約 4 分鐘
 - 與 v2.0 修改處 : 改用 selenium 重寫相同功能
